@@ -11,6 +11,7 @@ This project utilizes YOLO 5 to detect holes in bike lanes. The algorithm was tr
 - **Custom Dataset**: Created a comprehensive dataset by cycling through Curitiba, capturing diverse instances of bike lane holes.
 - **Algorithm Development**: Developed and fine-tuned the detection algorithm to accurately pinpoint and classify different types of holes.
 
+![image](https://github.com/fridriscvski/hole-detector/assets/117530891/93b2764e-8db2-4d10-b463-4d867b27e562)
 
 
 
